@@ -1,0 +1,13 @@
+name = "CC: Deep Seas"
+filename = "cc_deepseas-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a867c01dc72bf07338e74694588cfe78080b2dce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8110405
+project-id = 1541221

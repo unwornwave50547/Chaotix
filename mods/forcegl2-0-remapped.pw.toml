@@ -1,0 +1,13 @@
+name = "ForceGL2.0-Remapped"
+filename = "forcegl20-neoforge-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b314f551d8c517c64c0e6f5aa4c4cc6d9d036d3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5710929
+project-id = 1040134
