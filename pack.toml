@@ -1,0 +1,13 @@
+name = "chaotix"
+author = "unwornwave50547"
+version = "2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d8262a16d8487c12ee3a0ffa5c86d5846d919bc3bb76252086f66e8c173d5690"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
