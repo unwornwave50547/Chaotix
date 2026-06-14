@@ -1,0 +1,13 @@
+name = "Shutup OpenGL!"
+filename = "shutupgl-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11add435bf518cb3cb753b521e64a563f2ea1423"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6725177
+project-id = 1299257
